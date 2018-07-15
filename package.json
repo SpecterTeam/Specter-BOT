@@ -1,0 +1,23 @@
+{
+  "name": "specterbot",
+  "version": "0.0.1",
+  "description": "Specter Teams's Discord Bot for their discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpecterTeam/Specter-BOT.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "ThePvPGuyFTW",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SpecterTeam/Specter-BOT/issues"
+  },
+  "homepage": "https://github.com/SpecterTeam/Specter-BOT#readme"
+}

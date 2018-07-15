@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SpecterTeam/Specter-BOT/issues"
   },
-  "homepage": "https://github.com/SpecterTeam/Specter-BOT#readme"
+  "homepage": "https://github.com/SpecterTeam/Specter-BOT#readme",
+   "dependencies": {
+    "discord.js": "github:github/discordjs/discord.js"
+  }
 }

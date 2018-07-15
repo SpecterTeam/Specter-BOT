@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/SpecterTeam/Specter-BOT#readme",
    "dependencies": {
-    "discord.js": "github:github/discordjs/discord.js"
+    "discord.js": "github:discordjs/discord.js"
   }
 }

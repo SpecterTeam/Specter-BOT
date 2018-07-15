@@ -1,7 +1,7 @@
 {
     "bot": {
         "ID": "468016978016337931",
-        "token": process.env.TOKEN
+        "token": "process.env.TOKEN"
     },
     "developers": {
         "Fris": {

@@ -1,0 +1,18 @@
+{
+    "bot": {
+        "ID": "468016978016337931",
+        "token": process.env.TOKEN
+    },
+    "developers": {
+        "Fris": {
+            "ID": "214068199807778819"
+        },
+        "ThePvPGuyFTW": {
+            "ID": "258526488138088449"
+        }
+    },
+    "evalCMD": {
+        "ID_Fris": "214068199807778819",
+        "ID_ThePvPGuyFTW": "258526488138088449"
+    }
+}
